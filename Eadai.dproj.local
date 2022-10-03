@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/26 19:49:47.000.554,=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/02 19:37:29.250,=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/02 19:37:59.576,D:\Project\Delphi\SGELR\UPrincipal.pas=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/02 19:37:59.576,D:\Project\Delphi\SGELR\UPrincipal.dfm=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/02 19:38:11.371,D:\Project\Delphi\SGELR\Eadai.dproj=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
